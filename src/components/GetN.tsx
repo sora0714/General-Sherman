@@ -102,7 +102,7 @@ const GetN = () => {
     </div>
     <SignUpCard title={info[7].title} item={info[7].item} className={info[7].className}></SignUpCard>
    
-    <div className="text-[16px] text-white mb-2">
+    <div className="text-[18px] text-white mb-2">
      Additional info
     </div>
     <textarea
